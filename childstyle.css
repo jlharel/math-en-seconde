@@ -1,0 +1,120 @@
+body {              
+		font-size: 1.3em;
+                text-align: center;
+              background:url(hyper.png);
+	}
+
+.titre {
+                 width: 80%;
+	margin-top: 20px;
+	margin-bottom: 40px;
+        margin : 0 auto;
+	color:#FFFFFF;
+	font-family: 'Lobster', arial, serif; 
+	
+	font-size: 120px;
+	font-weight: normal;
+        text-align: center;
+        border: solid 5px;
+        border-color: #FF0000;
+        border-radius: 40px;
+        
+        
+}
+
+.contenu {
+                width: 100%;
+	height: 300px;
+        font-size: 60px;
+	margin: 0 auto;
+                vertical-align:  middle;
+	padding: 2px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 12px;		
+	word-wrap: break-word;
+	outline: none;
+	border: 1px solid gray;	
+	background: #ddd;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#ddd), to(#fefefe));
+	background: -moz-linear-gradient(#ddd, #fefefe);
+	background: linear-gradient(#ddd, #fefefe);	
+}
+
+.savoir{
+             width: 88%;
+	height: 300px;
+        font-size: 40px;
+	margin: 0 auto;
+                vertical-align:  middle;
+	padding: 2px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 12px;		
+	word-wrap: break-word;
+	outline: none;
+	border: 1px solid gray;	
+	background: #ddd;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#ddd), to(#fefefe));
+	background: -moz-linear-gradient(#ddd, #fefefe);
+	background: linear-gradient(#ddd, #fefefe);	    
+}
+
+
+h2 {
+	margin: 0;
+	color: #5A565D;
+	font-family: 'Lobster', arial, serif; 
+	font-weight: normal;
+	text-shadow: 1px 1px #fff;
+	font-size: 50px;
+}
+
+a {
+                color: red;
+}
+
+ol {
+	margin: 0; padding: 0;
+	
+	border: none;
+	font-family: 'Lobster', arial, serif; 
+	font-size: 0.9em;
+}
+
+
+ol li {
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	width: 22%;
+	height: 200px;
+	text-align: center;
+	padding: 2px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 12px;		
+	word-wrap: break-word;
+	outline: none;
+	border: 1px solid gray;	
+	background: #ddd;
+		
+}
+ol li:hover {
+	position: relative;
+	z-index: 10;
+        border: 3px solid red;	
+	word-wrap: break-word;
+	-webkit-transform: scale(2);
+	-moz-transform: scale(2);
+	transform: scale(2);
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+	
+}
+
+.retour{
+                font-size: 30px;
+                text-align: left;
+}

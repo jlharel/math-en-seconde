@@ -5,7 +5,8 @@ body {
 		font-size: 1.3em;
                 text-align: center;
               
-
+                margin: 0px;
+                padding: 0px;
                 margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
                 transform: translateY(-50%); 
 	}

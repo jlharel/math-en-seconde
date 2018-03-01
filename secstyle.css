@@ -55,7 +55,7 @@ ol li {
 	vertical-align: top;
 	position: relative;
 	width: 20%;
-	height: 200px;
+	height: 230px;
 	padding: 2px;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -84,8 +84,8 @@ ol li:hover {
 	position: relative;
 	z-index: 10;
 	word-wrap: break-word;
-	-webkit-transform: scale(2);
-	-moz-transform: scale(2);
+	-webkit-transform: scale(1.7);
+	-moz-transform: scale(1.7);
 	transform: scale(2);
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;

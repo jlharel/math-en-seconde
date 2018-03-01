@@ -43,7 +43,7 @@ body {
 
 .savoir{
              width: 88%;
-	height: 300px;
+	height: 350px;
         font-size: 40px;
 	margin: 0 auto;
                 vertical-align:  middle;
@@ -88,7 +88,7 @@ ol li {
 	vertical-align: top;
 	position: relative;
 	width: 22%;
-	height: 200px;
+	height: 250px;
 	text-align: center;
 	padding: 2px;
 	-webkit-border-radius: 4px;
